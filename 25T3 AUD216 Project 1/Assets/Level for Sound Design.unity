@@ -170859,24 +170859,24 @@ MonoBehaviour:
   surfaceProfiles:
   - surfaceType: wood
     footstepSounds:
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
+    - {fileID: 8300000, guid: f63376a8bc3b47643b9fc836eefc3dec, type: 3}
+    - {fileID: 8300000, guid: f286a25512d243545b683cf642775b3d, type: 3}
+    - {fileID: 8300000, guid: 10e555c290ec98f449e14fcf8c65b451, type: 3}
+    - {fileID: 8300000, guid: 304474e0562bb654183c31298cc2f3dd, type: 3}
+    - {fileID: 8300000, guid: 5fdea8a784c61f540989ceb78274b280, type: 3}
     baseVolume: 1
   - surfaceType: grass
     footstepSounds:
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
+    - {fileID: 8300000, guid: 78b76020ea397274488484610bd44f76, type: 3}
+    - {fileID: 8300000, guid: 22c7a313d0467594eb28626e07413fa8, type: 3}
+    - {fileID: 8300000, guid: e074c471d9f6c7b4b8ea353ac4b3989c, type: 3}
     baseVolume: 1
   - surfaceType: sand
     footstepSounds:
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
+    - {fileID: 8300000, guid: 9637cce086f982e4fb31b035ef7c32e2, type: 3}
+    - {fileID: 8300000, guid: d0ab356d8059dbd4db7a2a5e2b63f455, type: 3}
+    - {fileID: 8300000, guid: 47d5e705e0ecf1f45bc3b2ef9d691de8, type: 3}
+    - {fileID: 8300000, guid: 21ba1dfa2eeee0a4fbc4d59ae28723c9, type: 3}
     baseVolume: 1
   - surfaceType: rock
     footstepSounds:
@@ -170887,24 +170887,24 @@ MonoBehaviour:
     baseVolume: 1
   - surfaceType: snow
     footstepSounds:
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
+    - {fileID: 8300000, guid: 30682ef64474dd6499f39ee3b2378f6b, type: 3}
+    - {fileID: 8300000, guid: d22de3f3783a5994eaa10a8187075738, type: 3}
+    - {fileID: 8300000, guid: d57ccbf60e9e6f643873afaca0340ab7, type: 3}
+    - {fileID: 8300000, guid: 8ef23cfe813e91b40b97159b9861be0d, type: 3}
     baseVolume: 1
   - surfaceType: swamp
     footstepSounds:
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
+    - {fileID: 8300000, guid: 0b642effac72ff94595102b455188201, type: 3}
+    - {fileID: 8300000, guid: 9a5db2fa95b11a1459b4fc3a5746eb9c, type: 3}
+    - {fileID: 8300000, guid: f2da4544e9667ff41a886b2a1deb6673, type: 3}
+    - {fileID: 8300000, guid: d6fd9fb20fff6c74792b3c947ab37cd1, type: 3}
     baseVolume: 1
   - surfaceType: water
     footstepSounds:
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
+    - {fileID: 8300000, guid: 320b12158e12f394f9d462b027a4d3d3, type: 3}
+    - {fileID: 8300000, guid: 241d956e6a12e5d4da82e0c358d29bd0, type: 3}
+    - {fileID: 8300000, guid: cef740c10e25fe24b951ae6090e465ed, type: 3}
+    - {fileID: 8300000, guid: a9f89d7b062b1da49a58e9048f696823, type: 3}
     baseVolume: 1
   movementProfile:
     jumpSounds:
