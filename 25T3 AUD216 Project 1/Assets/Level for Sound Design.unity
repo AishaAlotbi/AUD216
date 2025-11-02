@@ -34257,22 +34257,22 @@ AudioSource:
   m_GameObject: {fileID: 371962340}
   m_Enabled: 1
   serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: 0}
+  OutputAudioMixerGroup: {fileID: 296429323556396102, guid: 855e36c5d423f44d6a9571cbdf1b2686, type: 2}
   m_audioClip: {fileID: 0}
-  m_Resource: {fileID: 0}
+  m_Resource: {fileID: 8300000, guid: 614762017bb50ce4dbcf51abb1550622, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 1
+  m_Volume: 0.675
   m_Pitch: 1
-  Loop: 0
+  Loop: 1
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
   Priority: 128
   DopplerLevel: 1
   MinDistance: 1
-  MaxDistance: 500
+  MaxDistance: 40
   Pan2D: 0
-  rolloffMode: 0
+  rolloffMode: 2
   BypassEffects: 0
   BypassListenerEffects: 0
   BypassReverbZones: 0
@@ -34280,23 +34280,32 @@ AudioSource:
     serializedVersion: 2
     m_Curve:
     - serializedVersion: 3
-      time: 0
+      time: 0.025
       value: 1
       inSlope: 0
       outSlope: 0
       tangentMode: 0
       weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
+      inWeight: 0
+      outWeight: 0
     - serializedVersion: 3
-      time: 1
-      value: 0
-      inSlope: 0
-      outSlope: 0
+      time: 0.34195954
+      value: 0.28640577
+      inSlope: -1.3378183
+      outSlope: -1.3378183
       tangentMode: 0
       weightedMode: 0
       inWeight: 0.33333334
-      outWeight: 0.33333334
+      outWeight: 0.061732683
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: -0.1728055
+      outSlope: -0.1728055
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.115863755
+      outWeight: 0
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
@@ -34305,7 +34314,7 @@ AudioSource:
     m_Curve:
     - serializedVersion: 3
       time: 0
-      value: 0
+      value: 1
       inSlope: 0
       outSlope: 0
       tangentMode: 0
@@ -34319,14 +34328,23 @@ AudioSource:
     serializedVersion: 2
     m_Curve:
     - serializedVersion: 3
-      time: 0
-      value: 0
+      time: 0.011886597
+      value: 0.46211752
+      inSlope: -0.9816677
+      outSlope: -0.9816677
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.095008165
+    - serializedVersion: 3
+      time: 0.6448873
+      value: 0.039284766
       inSlope: 0
       outSlope: 0
       tangentMode: 0
       weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
+      inWeight: 0
+      outWeight: 0
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
@@ -170867,9 +170885,9 @@ MonoBehaviour:
     baseVolume: 1
   - surfaceType: grass
     footstepSounds:
-    - {fileID: 8300000, guid: 78b76020ea397274488484610bd44f76, type: 3}
-    - {fileID: 8300000, guid: 22c7a313d0467594eb28626e07413fa8, type: 3}
-    - {fileID: 8300000, guid: e074c471d9f6c7b4b8ea353ac4b3989c, type: 3}
+    - {fileID: 8300000, guid: 0b7c7fb173b9551418da66cc9a109744, type: 3}
+    - {fileID: 8300000, guid: 971245ca074fb694580aee1269171e4a, type: 3}
+    - {fileID: 8300000, guid: 76fb8943151d0134f91f2c1488070ed3, type: 3}
     baseVolume: 1
   - surfaceType: sand
     footstepSounds:
@@ -170880,10 +170898,10 @@ MonoBehaviour:
     baseVolume: 1
   - surfaceType: rock
     footstepSounds:
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
+    - {fileID: 8300000, guid: f0d3de7779ab43e42b0bcbb3f1fb2a0f, type: 3}
+    - {fileID: 8300000, guid: cf535b7ff254f7d4bb70c8afb4bafb43, type: 3}
+    - {fileID: 8300000, guid: bf33427b7318e8f41a6529f937bf6a0e, type: 3}
+    - {fileID: 8300000, guid: 80b4eb10291b5e44b99677e7bf2e0b08, type: 3}
     baseVolume: 1
   - surfaceType: snow
     footstepSounds:
@@ -170908,10 +170926,10 @@ MonoBehaviour:
     baseVolume: 1
   movementProfile:
     jumpSounds:
-    - {fileID: 0}
+    - {fileID: 8300000, guid: 529a32348a08ae24594cac4487665235, type: 3}
     jumpVolume: 1
     landSounds:
-    - {fileID: 0}
+    - {fileID: 8300000, guid: 35a9102f900b786459487536351308c0, type: 3}
     landVolume: 1
   audioSource: {fileID: 102768384825828718}
   sfxMixerGroup: {fileID: 5073739959016578318, guid: 855e36c5d423f44d6a9571cbdf1b2686, type: 2}
