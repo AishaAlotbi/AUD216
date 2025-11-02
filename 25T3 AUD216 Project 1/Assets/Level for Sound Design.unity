@@ -175833,11 +175833,7 @@ MonoBehaviour:
     state: 0
     musicClips:
     - {fileID: 8300000, guid: 34ac186fb4c2cd345be0085601dcfc00, type: 3}
-    - {fileID: 8300000, guid: 3821534bc2533fe4f9ef22ccfd92a108, type: 3}
-    - {fileID: 8300000, guid: 5e86f69477303b34aa68ed708db70b11, type: 3}
-    - {fileID: 8300000, guid: e6275187c14571a43ba7c647b4f4e2cd, type: 3}
-    - {fileID: 8300000, guid: d9c9b5fae891a5e44ae0135769e45cb0, type: 3}
-    volume: 0
+    volume: 0.9
     outputMixerGroup: {fileID: 8426258057616649091, guid: 855e36c5d423f44d6a9571cbdf1b2686, type: 2}
     loop: 1
     playbackMode: 0
@@ -175850,9 +175846,7 @@ MonoBehaviour:
     state: 1
     musicClips:
     - {fileID: 8300000, guid: 0bcc907307d022c469edf040d69fb158, type: 3}
-    - {fileID: 8300000, guid: ad45b831a54c26e48aa34b5e6409da49, type: 3}
-    - {fileID: 8300000, guid: 6736f154d14f2624daff10345b98ece4, type: 3}
-    volume: 0
+    volume: 0.9
     outputMixerGroup: {fileID: 8426258057616649091, guid: 855e36c5d423f44d6a9571cbdf1b2686, type: 2}
     loop: 1
     playbackMode: 0
