@@ -171227,9 +171227,11 @@ MonoBehaviour:
     customAudioSource: {fileID: 0}
     interactionSounds: []
     igniteSounds:
-    - {fileID: 0}
-    fireLoop: {fileID: 0}
-    fireLoopStartDelay: 0.3
+    - {fileID: 8300000, guid: 6bd892708f5d84c4c977f8c32a5ed3fc, type: 3}
+    - {fileID: 8300000, guid: de47154eebc95914a98853cf3f4b11b7, type: 3}
+    - {fileID: 8300000, guid: 157b24ff8a139a2488bb54b34ddee33b, type: 3}
+    fireLoop: {fileID: 8300000, guid: a2cac3d767cc34243aa1f6b58f6bd729, type: 3}
+    fireLoopStartDelay: 0.1
     leverSound: {fileID: 0}
     sparksSound: {fileID: 0}
     mixerGroupOutput: {fileID: -4879847589637855815, guid: 855e36c5d423f44d6a9571cbdf1b2686, type: 2}
@@ -171244,8 +171246,10 @@ MonoBehaviour:
     customAudioSource: {fileID: 0}
     interactionSounds: []
     igniteSounds:
-    - {fileID: 0}
-    fireLoop: {fileID: 0}
+    - {fileID: 8300000, guid: 6bd892708f5d84c4c977f8c32a5ed3fc, type: 3}
+    - {fileID: 8300000, guid: de47154eebc95914a98853cf3f4b11b7, type: 3}
+    - {fileID: 8300000, guid: 157b24ff8a139a2488bb54b34ddee33b, type: 3}
+    fireLoop: {fileID: 8300000, guid: c43df69ecf8876a45977ce93e5868479, type: 3}
     fireLoopStartDelay: 0.3
     leverSound: {fileID: 0}
     sparksSound: {fileID: 0}
